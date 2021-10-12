@@ -1,7 +1,6 @@
 ### Hola / Bonjour / Hi 👋
 
 #### My name in Maicol (you can pronounced it like Michael), and  I'm a Full-Stack Web Developer living in Montreal, Canada.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MigrantCaravan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
