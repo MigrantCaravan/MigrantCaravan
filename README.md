@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hola / Bonjour / Hi 👋
+
+#### My name in Maicol (you can pronounced like Michael), and  I'm a Full-Stack Web Developer living in Montreal, Canada.
+
+##### Currently working on
+
+- 🎺 Last Proyect [Amp&Play](https://github.com/MigrantCaravan/AmpAndPlay);
+- 🍅 React recipe app;
+- ⌚ Wearables web page collaboration
+
+##### BIO
+
+- 🔍 I'm currently searching for new job oportinities
+- 🖥️ Everyday: `.js`, `.html`, `.css`, `.flp`
+- 🌍 I'm mostly active within the **Tone.js Community**
+- 🌱 I am currectly learning About **Three.js**
+- 💬 Ask me about **Multimedia**, **Audio Web API**, **Tone.js**, **Music Production**, **Web Development**
+- 📫 How to reach me: [twitter.com/migrantxcaravan](https://twitter.com/migrantxcaravan)
+- ⚡️ Fun fact: I'm a huge fan of relaxing games (Zelda Breath of the wild, Untitled Goose Game, TOEM, etc.) and retro-consoles. 
+
 
 <!--
 **MigrantCaravan/MigrantCaravan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
