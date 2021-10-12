@@ -2,6 +2,7 @@
 
 #### My name in Maicol (you can pronounced it like Michael), and  I'm a Full-Stack Web Developer living in Montreal, Canada.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MigrantCaravan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MigrantCaravan&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##### Currently working on
