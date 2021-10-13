@@ -27,3 +27,6 @@
 <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" />
 <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=HTML5&logoColor=E34F26" alt="html" />
 <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=61DAFB" alt="react" />
+
+<img src="https://img.shields.io/badge/Styled-Components-323330?style=for-the-badge&logo=styled-components&logoColor=CA4245" alt="styled" />
+<img src="https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="bootstrap" />
