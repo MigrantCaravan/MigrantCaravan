@@ -7,8 +7,10 @@
 ##### Currently working on
 
 - 🎺 Last Proyect [Amp&Play](https://github.com/MigrantCaravan/AmpAndPlay);
+- ⌚ [Wicked Wearables](https://github.com/MigrantCaravan/Wicked-Wearables), Wearables web page collaboration;
 - 🍅 React recipe app;
-- ⌚  [Wicked Wearables](https://github.com/MigrantCaravan/Wicked-Wearables), Wearables web page collaboration
+
+
 
 ##### BIO
 
