@@ -31,5 +31,15 @@
 <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=HTML5&logoColor=E34F26" alt="html" />
 
 
+##### Backend & Databases
+
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> 
+<img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white" alt="express" /> 
+<img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+<img src="https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=white" alt="json" />
+
+
+
 
 
