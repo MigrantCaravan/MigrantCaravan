@@ -34,11 +34,11 @@
 ##### Backend & Databases
 
 
-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="nodejs" /> 
-- <img src="https://img.shields.io/badge/Nodemon-339933?style=for-the-badge&logo=Nodemon&logoColor=76D04B" alt="nodemon" /> 
+- <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="nodejs" /> 
+- <img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=Nodemon&logoColor=76D04B" alt="nodemon" /> 
 - <img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white" alt="express" /> 
 <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="mongodb" />
-<img src="https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=000000" alt="json" />
+<img src="https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=white" alt="json" />
 
 
 ##### Other Tools
