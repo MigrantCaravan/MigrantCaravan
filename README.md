@@ -34,6 +34,6 @@
 
 ##### Other Tools
 
-- <img src="https://img.shields.io/badge/Insomnia-323330?style=for-the-badge&logo=Insomnia&logoColor=5849BE" alt="insomnia" /> <img src="https://img.shields.io/badge/visual--studio--code-323330?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC" alt="vsc" /> <img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=F05032" alt="git" />
+- <img src="https://img.shields.io/badge/Insomnia-323330?style=for-the-badge&logo=Insomnia&logoColor=5849BE" alt="insomnia" /> <img src="https://img.shields.io/badge/visual--studio--code-323330?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC" alt="vsc" /> <img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=F05032" alt="git" /> 
 
 
