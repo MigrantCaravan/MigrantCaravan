@@ -21,5 +21,8 @@
 - 🕹️ Fun fact: I'm a huge fan of relaxing games (Zelda Breath of the Wild, Untitled Goose Game, TOEM, Unravel, etc.) and retro-consoles
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](Javascript)
+
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
+
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" />
