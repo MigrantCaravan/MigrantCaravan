@@ -23,28 +23,17 @@
 
 ##### Frontend 
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-<img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=61DAFB" alt="react" />
-<img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" />
-<img src="https://img.shields.io/badge/styled--components-323330?style=for-the-badge&logo=styled-components&logoColor=DB7093" alt="styled" />
-<img src="https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="bootstrap" />
-<img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=HTML5&logoColor=E34F26" alt="html" />
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" /> <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=61DAFB" alt="react" /> <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/styled--components-323330?style=for-the-badge&logo=styled-components&logoColor=DB7093" alt="styled" /> <img src="https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="bootstrap" /> <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=HTML5&logoColor=E34F26" alt="html" />
 
 
 ##### Backend & Databases
 
 
-- <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="nodejs" /> 
-- <img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=Nodemon&logoColor=76D04B" alt="nodemon" /> 
-- <img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white" alt="express" /> 
-<img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="mongodb" />
-<img src="https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=white" alt="json" />
+- <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="nodejs" /> <img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=Nodemon&logoColor=76D04B" alt="nodemon" /> <img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white" alt="express" /> <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="mongodb" /> <img src="https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=white" alt="json" />
 
 
 ##### Other Tools
 
-<img src="https://img.shields.io/badge/Insomnia-323330?style=for-the-badge&logo=Insomnia&logoColor=white" alt="insomnia" />
-<img src="https://img.shields.io/badge/visual--studio--code-323330?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC" alt="vsc" /> 
-<img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+- <img src="https://img.shields.io/badge/Insomnia-323330?style=for-the-badge&logo=Insomnia&logoColor=5849BE" alt="insomnia" /> <img src="https://img.shields.io/badge/visual--studio--code-323330?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC" alt="vsc" /> <img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=F05032" alt="git" />
 
 
