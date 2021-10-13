@@ -8,7 +8,7 @@
 
 - 🎺 Last Proyect [Amp&Play](https://github.com/MigrantCaravan/AmpAndPlay);
 - ⌚ [Wicked Wearables](https://github.com/MigrantCaravan/Wicked-Wearables), Wearables web page collaboration;
-- 🍅 React recipe app;
+- 🥑 React recipe app;
 
 
 
