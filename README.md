@@ -18,7 +18,7 @@
 - 🔍 I'm currently searching for new job oportinities
 - 🖥️ Everyday: `.js`, `.html`, `.css`, `.flp`
 - 🌍 I'm mostly active within the **Tone.js Community**
-- 🌱 I'm currectly learning About **Three.js**
+- 🌱 I'm currectly learning about **Three.js** and **react-three-fiber**
 - 💬 Ask me about **Multimedia**, **Audio Web API**, **Tone.js**, **Music Production**, **Web Development**
 - 📫 How to reach me: [twitter.com/migrantxcaravan](https://twitter.com/migrantxcaravan)
 - 🕹️ Fun fact: I'm a huge fan of relaxing games (Zelda Breath of the Wild, Untitled Goose Game, TOEM, Unravel, etc.) and retro-consoles
