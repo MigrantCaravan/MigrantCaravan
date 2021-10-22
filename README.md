@@ -7,9 +7,10 @@
 ##### Currently working on
 
 - 🎺 [Amp&Play](https://github.com/MigrantCaravan/AmpAndPlay). Synth/Amp with preset recuperation using MongoDB;
+- 🚘 [3D Tesla Paint Selector](https://github.com/MigrantCaravan/Tesla-CyberTruck-Model3-Paint-Selector). 3D modelling with `react-three-fiber` and Three.js;
 - ⌚ [Wicked Wearables](https://github.com/MigrantCaravan/Wicked-Wearables). Wearables web page collaboration;
 - 🥑 [Forgetfull Avocado](https://github.com/MigrantCaravan/Forgetful-Avocado). React recipe app;
-- 🚘 [3D Tesla Paint Selector](https://github.com/MigrantCaravan/Tesla-CyberTruck-Model3-Paint-Selector). 3D modelling with `react-three-fiber` and Three.js;
+
 
 
 
