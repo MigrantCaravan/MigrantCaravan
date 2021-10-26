@@ -6,7 +6,8 @@
 
 ##### Currently working on
 
-- 🎺 [Amp&Play](https://github.com/MigrantCaravan/AmpAndPlay). Synth/Amp with preset recuperation using MongoDB;
+- 🦊 [My Webpage](https://github.com/MigrantCaravan/3D-personal-website). My very own webpage rendering 3D assests of some of the things I like. 
+- 🎺 [Amp&Play](https://github.com/MigrantCaravan/AmpAndPlay). React Synth/Amp with preset recuperation using MongoDB;
 - 🚘 [3D Tesla Paint Selector](https://github.com/MigrantCaravan/Tesla-CyberTruck-Model3-Paint-Selector). 3D modelling with `react-three-fiber` and Three.js;
 - ⌚ [Wicked Wearables](https://github.com/MigrantCaravan/Wicked-Wearables). Wearables web page collaboration;
 - 🥑 [Forgetfull Avocado](https://github.com/MigrantCaravan/Forgetful-Avocado). React recipe app;
@@ -18,8 +19,8 @@
 
 - 🔍 I'm currently searching for new job oportinities
 - 🖥️ Everyday: `.js`, `.html`, `.css`, `.flp`
-- 🌍 I'm mostly active within the **Tone.js Community**
-- 🌱 I'm currectly learning about **Three.js** and **react-three-fiber**
+- 🌍 I'm mostly active within the **Three.js**, **react-three-fiber** and **Tone.js** community
+- 🌱 I'm currectly learning about **C#** and **Unity**
 - 💬 Ask me about **Multimedia**, **Audio Web API**, **Tone.js**, **Music Production**, **Web Development**
 - 📫 How to reach me: [twitter.com/migrantxcaravan](https://twitter.com/migrantxcaravan)
 - 🕹️ Fun fact: I'm a huge fan of relaxing games (Zelda Breath of the Wild, Untitled Goose Game, TOEM, Unravel, etc.) and retro-consoles
