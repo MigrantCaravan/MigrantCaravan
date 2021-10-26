@@ -8,7 +8,7 @@
 
 - 🦊 [My Webpage](https://github.com/MigrantCaravan/3D-personal-website). My very own webpage rendering 3D assests of some of the things I like;
 - 🚘 [3D Tesla Paint Selector](https://github.com/MigrantCaravan/Tesla-CyberTruck-Model3-Paint-Selector). 3D modelling with `react-three-fiber` and `Three.js`;
-- 🥑 [Do You Want To Buy It](https://github.com/MigrantCaravan/Do-you-want-to-buy-this-avocado). 3D render of a realistic avocado using `Three.js`;
+- 🥑 [Do You Want To Buy It](https://github.com/MigrantCaravan/Do-you-want-to-buy-this-avocado). 3D render of a realistic avocado using `Three.js` and `Tone.js`;
 - 🎺 [Amp&Play](https://github.com/MigrantCaravan/AmpAndPlay). React Synth/Amp with preset recuperation using MongoDB;
 - ⌚ [Wicked Wearables](https://github.com/MigrantCaravan/Wicked-Wearables). Wearables web page collaboration;
 - 🥑 [Forgetfull Avocado](https://github.com/MigrantCaravan/Forgetful-Avocado). React recipe app;
