@@ -22,7 +22,7 @@
 - 🖥️ Everyday: `.js`, `.html`, `.css`, `.flp`
 - 🌍 I'm mostly active within the **Three.js**, **react-three-fiber** and **Tone.js** community
 - 🌱 I'm currectly learning about **C#** and **Unity**
-- 💬 Ask me about **Multimedia**, **Audio Web API**, **Tone.js**, **Music Production**, **Web Development**
+- 💬 Ask me about **Multimedia**, **Audio Web API**, **Tone.js**, **Three.js**, **Music Production**, **Web Development**
 - 📫 How to reach me: [twitter.com/migrantxcaravan](https://twitter.com/migrantxcaravan)
 - 🕹️ Fun fact: I'm a huge fan of relaxing games (Zelda Breath of the Wild, Untitled Goose Game, TOEM, Unravel, etc.) and retro-consoles
 
