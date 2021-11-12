@@ -1,6 +1,6 @@
 ### Hola / Bonjour / Hi 👋
 
-#### My name in Maicol (you can pronounced it like Michael), and  I'm a Full-Stack Web Developer living in Montreal, Canada.
+#### My name in Maicol (or Michael!), and  I'm a Full-Stack Web Developer living in Montreal, Canada.
 
 
 
