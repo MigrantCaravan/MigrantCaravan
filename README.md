@@ -18,7 +18,7 @@
 
 ##### BIO
 
-- 🔍 I'm currently searching for new job oportinities
+- 🔍 I'm currently searching for new job opportunities
 - 🖥️ Everyday: `.js`, `.html`, `.css`, `.flp`
 - 🌍 I'm mostly active within the **Three.js**, **react-three-fiber** and **Tone.js** community
 - 🌱 I'm currectly learning about **C#** and **Unity**
