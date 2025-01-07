@@ -24,7 +24,7 @@
 - 🌱 I'm currectly learning about **C#** and **Unity**
 - 💬 Ask me about **Multimedia**, **Audio Web API**, **Tone.js**, **Three.js**, **Music Production**, **Web Development**
 - 📫 How to reach me: [twitter.com/migrantxcaravan](https://twitter.com/migrantxcaravan)
-- 🕹️ Fun fact: I'm a huge fan of relaxing games (Zelda Breath of the Wild, Untitled Goose Game, TOEM, Unravel, etc.) and retro-consoles
+- 🕹️ Fun fact: I'm a huge fan of cozy games (Zelda Breath of the Wild, Untitled Goose Game, TOEM, Unravel, etc.) and retro-consoles
 
 
 ##### Frontend 
