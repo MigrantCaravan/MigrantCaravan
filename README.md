@@ -6,6 +6,8 @@
 
 ##### Last Projects
 
+- 🤖 [PabloApp](https://github.com/MigrantCaravan/pabloapp). Moral compass app that uses OpenAI API based on user input;
+- 🤖 [SabrinApp](https://github.com/MigrantCaravan/chatapp). Chatbot named Sabrina, who has a unique personality and tone;
 - 🦊 [My Webpage](https://github.com/MigrantCaravan/3D-personal-website). My very own webpage rendering 3D assests of some of the things I like;
 - 🚘 [3D Tesla Paint Selector](https://github.com/MigrantCaravan/Tesla-CyberTruck-Model3-Paint-Selector). 3D modelling with `react-three-fiber` and `Three.js`;
 - 🥑 [Do You Want To Buy It](https://github.com/MigrantCaravan/Do-you-want-to-buy-this-avocado). 3D render of a realistic avocado using `Three.js`;
@@ -19,11 +21,11 @@
 ##### BIO
 
 - 🔍 I'm currently searching for new job opportunities
-- 🖥️ Everyday: `.js`, `.html`, `.css`, `.flp`
-- 🌍 I'm mostly active within the **Three.js**, **react-three-fiber** and **Tone.js** community
-- 🌱 I'm currectly learning about **C#** and **Unity**
+- 🖥️ Everyday: `.js`, `.html`, `.css`, `.flp`, `.ts`, `.tsx`,
+- 🌍 I'm mostly active within the  **OpenAI**, **Three.js**, **react-three-fiber** and **Tone.js** community
+- 🌱 I'm currectly learning about **Next.js** and **C#**
 - 💬 Ask me about **Multimedia**, **Audio Web API**, **Tone.js**, **Three.js**, **Music Production**, **Web Development**
-- 📫 How to reach me: [twitter.com/migrantxcaravan](https://twitter.com/migrantxcaravan)
+- 📫 How to reach me: [twitter.com/migrantxcaravan](https://www.instagram.com/layo_bedoya/)
 - 🕹️ Fun fact: I'm a huge fan of cozy games (Zelda Breath of the Wild, Untitled Goose Game, TOEM, Unravel, etc.) and retro-consoles
 
 
