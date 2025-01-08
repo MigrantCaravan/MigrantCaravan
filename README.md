@@ -21,12 +21,12 @@
 ##### BIO
 
 - 🔍 I'm currently searching for new job opportunities
-- 🖥️ Everyday: `.js`, `.html`, `.css`, `.flp`, `.ts`, `.tsx`,
+- 🖥️ Everyday tools: `.js`, `.html`, `.css`, `.flp`, `.ts`, `.tsx`,
 - 🌍 I'm mostly active within the  **OpenAI**, **Three.js**, **react-three-fiber** and **Tone.js** community
-- 🌱 I'm currectly learning about **Next.js** and **C#**
+- 🌱 I'm currectly learning **Next.js** and **C#**
 - 💬 Ask me about **Multimedia**, **Audio Web API**, **Tone.js**, **Three.js**, **Music Production**, **Web Development**
 - 📫 How to reach me: [Instagram](https://www.instagram.com/layo_bedoya/)
-- 🕹️ Fun fact: I'm a huge fan of cozy games (Zelda Breath of the Wild, Untitled Goose Game, TOEM, Unravel, etc.) and retro-consoles
+- 🕹️ I'm a huge fan of cozy games (Zelda: Breath of the Wild, Untitled Goose Game, TOEM, Unravel, etc.) and retro consoles
 
 
 ##### Frontend 
