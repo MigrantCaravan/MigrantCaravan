@@ -25,7 +25,7 @@
 - 🌍 I'm mostly active within the  **OpenAI**, **Three.js**, **react-three-fiber** and **Tone.js** community
 - 🌱 I'm currectly learning about **Next.js** and **C#**
 - 💬 Ask me about **Multimedia**, **Audio Web API**, **Tone.js**, **Three.js**, **Music Production**, **Web Development**
-- 📫 How to reach me: [twitter.com/migrantxcaravan](https://www.instagram.com/layo_bedoya/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/layo_bedoya/)
 - 🕹️ Fun fact: I'm a huge fan of cozy games (Zelda Breath of the Wild, Untitled Goose Game, TOEM, Unravel, etc.) and retro-consoles
 
 
