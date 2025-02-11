@@ -6,13 +6,13 @@
 
 ##### Last Projects
 
+- 🤖 [SabrinApp](https://github.com/MigrantCaravan/SabrinApp2-0-chatbot). Version 2 of a chatbot named Sabrina, who has a unique personality and tone;
 - 🤖 [PabloApp](https://github.com/MigrantCaravan/pabloapp). Moral compass app that uses OpenAI API based on user input;
-- 🤖 [SabrinApp](https://github.com/MigrantCaravan/chatapp). Chatbot named Sabrina, who has a unique personality and tone;
-- 🦊 [My Webpage](https://github.com/MigrantCaravan/3D-personal-website). My very own webpage rendering 3D assests of some of the things I like;
 - 🚘 [3D Tesla Paint Selector](https://github.com/MigrantCaravan/Tesla-CyberTruck-Model3-Paint-Selector). 3D modelling with `react-three-fiber` and `Three.js`;
-- 🥑 [Do You Want To Buy It](https://github.com/MigrantCaravan/Do-you-want-to-buy-this-avocado). 3D render of a realistic avocado using `Three.js`;
 - 🎺 [Amp&Play](https://github.com/MigrantCaravan/AmpAndPlay). React Synth/Amp with preset recuperation using MongoDB and `Tone.js`;
-- ⌚ [Wicked Wearables](https://github.com/MigrantCaravan/Wicked-Wearables). Wearables web page collaboration;
+- 🦊 [My Webpage](https://github.com/MigrantCaravan/3D-personal-website). My very own webpage rendering 3D assests of some of the things I like;
+- 🥑 [Do You Want To Buy It](https://github.com/MigrantCaravan/Do-you-want-to-buy-this-avocado). 3D render of a realistic avocado using `Three.js`;
+- ⌚ [Wicked Wearables](https://github.com/MigrantCaravan/Wicked-Wearables). Wearables e-commerce collaboration;
 - 🥑 [Forgetfull Avocado](https://github.com/MigrantCaravan/Forgetful-Avocado). React recipe app;
 
 
@@ -21,7 +21,7 @@
 ##### BIO
 
 - 🔍 I'm currently searching for new job opportunities
-- 🖥️ Everyday tools: `.js`, `.html`, `.css`, `.flp`, `.ts`, `.tsx`,
+- 🖥️ Everyday tools: `.js`, `.html`, `.css`, `.flp`, `.ts`, `.tsx`, `.scss`,
 - 🌍 I'm mostly active within the  **OpenAI**, **Three.js**, **react-three-fiber** and **Tone.js** community
 - 🌱 I'm currectly learning **Next.js** and **C#**
 - 💬 Ask me about **Multimedia**, **Audio Web API**, **Tone.js**, **Three.js**, **Music Production**, **Web Development**
