@@ -5,7 +5,7 @@
 
 
 ##### Last Projects
-
+- 🤖 [Poor's Man Truora](https://github.com/MigrantCaravan/poors-man-truora). Identity verification app that uses `TensorFlow.js` and the `BlazeFace` to detect faces;
 - 🤖 [SabrinApp](https://github.com/MigrantCaravan/chatapp).Chatbot named Sabrina, who has a unique personality and tone;
 - 🤖 [PabloApp](https://github.com/MigrantCaravan/pabloapp). Moral compass app that uses OpenAI API based on user input;
 - 🚘 [3D Tesla Paint Selector](https://github.com/MigrantCaravan/Tesla-CyberTruck-Model3-Paint-Selector). 3D modelling with `react-three-fiber` and `Three.js`;
